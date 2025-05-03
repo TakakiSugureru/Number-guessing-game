@@ -1,4 +1,4 @@
-# Number-guessing-game
+# Number guessing game!!!
 This is a project I created using C programming language.
 
 ## Concepts Used
