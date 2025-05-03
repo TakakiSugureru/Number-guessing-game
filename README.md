@@ -13,7 +13,8 @@ The game offers **4 difficulty levels**:
 - **Easy**: 5 turns to guess a number between 1 and 10.
 - **Normal**: 10 turns to guess a number between 1 and 100.
 - **Hard**: 30 turns to guess a number between 1 and 1000.
-- **Hell**: 30 turns to guess a number between 1 and 10000.  
+- **Hell**: 30 turns to guess a number between 1 and 10000.
+
 Type `q` or `Q` when choosing level to exit the game!    
 
 ## Features
