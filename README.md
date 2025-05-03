@@ -19,9 +19,11 @@ Type `q` or `Q` when choosing level to exit the game!
 ## Features
 Randomly generated secret number each game    
 Hint is available in Hard and Hell levels:
+
   - After 3 guesses: Even or Odd hint
   - After 7 guesses: Range ±50
-  - After 10 guesses: Narrower range ±10  
+  - After 10 guesses: Narrower range ±10
+
 Warning when only 1 guess is left    
 Game over message with the correct number    
 
